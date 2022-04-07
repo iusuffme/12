@@ -16,7 +16,6 @@ import com.example.taskapp.R;
 import com.example.taskapp.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
-
     private HomeViewModel homeViewModel;
     private FragmentHomeBinding binding;
 
